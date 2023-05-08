@@ -7,12 +7,11 @@
   "fbNative": "YOUR_PLACEMENT_ID",
   "fbNativeBnnr": "YOUR_PLACEMENT_ID",
   
-  "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
-  "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobBannr": "ca-app-pub-3144184500423402/7565166571",
+  "AdmobInter": "ca-app-pub-3144184500423402/7062549796",
   "AdmobInterSplash":"",
-  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
-  
+  "AdmobNative": "ca-app-pub-3144184500423402/2217417225",
+  "AdmobOpenAds": "ca-app-pub-3144184500423402/6208633128",
   "admob_pub_id": "pub-8295793237549637",
   "admob_app_id": "ca-app-pub-8295793237549637~1512167265",
   "adType": "admob",
