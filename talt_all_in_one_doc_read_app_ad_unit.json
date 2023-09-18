@@ -1,6 +1,7 @@
 {
   "error": false,
   "isNewApp":false,
+  "isConsent":false,
   "app_pkg": "com.ds.bluetoothmouse.remotemouse.wifimouse.bluetoothkeyboard.bluetoothmouseandkeyboard",
   "fbBannr": "YOUR_PLACEMENT_ID",
   "fbInter": "YOUR_PLACEMENT_ID",
